@@ -1,11 +1,16 @@
 _repo: A-History-of-English-literature-b-A-practical-text-book_70731
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70731-h/images/cover.jpg
 creator:
   author:
     agent_name: Albert, Edward
     gutenberg_agent_id: '55892'
     url: http://www.gutenberg.org/2009/agents/55892
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70731#A-History-of-English-literature-b-A-practical-text-book
 gutenberg_issued: '2023-05-10'
 identifiers:
   gutenberg: '70731'
